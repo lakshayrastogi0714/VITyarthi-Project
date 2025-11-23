@@ -37,7 +37,8 @@ python atm_simulator.py
 3. Sample Account Data:
 Use the following sample IDs and PINs to test the system:
 
-[ACC_ID, NAME, PIN, BALANCE] [1001, ANMOL, 1204, 120456880.00]
+[ACC_ID, NAME, PIN, BALANCE] 
+[1001, ANMOL, 1204, 120456880.00]
 
 Instructions for Use:
 Upon execution, the main menu will appear:
