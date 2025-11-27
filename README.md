@@ -201,5 +201,7 @@ This ATM Management System provides a complete demonstration of:
     D.Safe user authentication
 
     E.Persistent storage using CSV files
+    
+**NOTE: ** To run the program make sure that accounts.py file is executed first.
 
 It is ideal for academic projects, demonstrations, and learning exercises involving Python fundamentals.
