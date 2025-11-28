@@ -102,8 +102,8 @@ To ensure safe and reliable usage, the system includes:
     
       Use this structure:
      
-            [ACC_ID 	NAME	 ACC_NUMBER	 PIN	  BALANCE]
-            [1001  	 ANMOL	 10196	     1204	 56880.00]
+            [ACC_ID   NAME	   ACC_NUMBER	  PIN	     BALANCE]
+            [1001  	 ANMOL	   10196	      1204	    56880.00]
         You may add or modify entries as needed.
   4. Save the Python File
      Save your ATM program as:
